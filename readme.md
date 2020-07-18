@@ -21,13 +21,13 @@ ChromeDriver 81.0.4044.69
 [openpyxl 3.0.4](https://openpyxl.readthedocs.io/en/stable/)
 
 ```python
-pip install openpyxl
+> pip install openpyxl
 ```
 
 [selenium 3.141.0](https://www.selenium.dev/)
 
 ```python
-pip install selenium
+> pip install selenium
 ```
 
 [ChromeDriver](http://chromedriver.chromium.org/downloads)
