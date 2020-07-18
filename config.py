@@ -1,0 +1,2 @@
+USERID = 'your USERID'
+PASSWORD = 'your PASSWORD'
